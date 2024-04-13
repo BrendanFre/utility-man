@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ba3e7flq2krtn"]
+
+[ext_resource type="Texture2D" uid="uid://blf44gcdg3rlh" path="res://components/actor/level-one-landowner/lvl-one-landowner.png" id="1_4t6cw"]
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_4t6cw")
